@@ -28,6 +28,8 @@ buat file dengan nama ```images.html```
 
 Dokumentasi Bootstrap [Images](https://getbootstrap.com/docs/5.2/content/images/)
 
+Download gambar dari website [Freepik](https://www.freepik.com/)
+
 ## Tables
 
 buat file dengan nama ```tables.html```
