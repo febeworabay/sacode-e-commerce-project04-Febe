@@ -2,9 +2,9 @@
 
 ## Highlight
 
-✅ Typography
-✅ Images
-✅ Tables
+✅ Typography <br>
+✅ Images <br>
+✅ Tables<br>
 
 ## Typography
 
